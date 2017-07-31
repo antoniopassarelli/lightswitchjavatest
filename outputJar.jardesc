@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="E:/JavaTests/Triple3WorkSpace/LightSwitch.jar"/>
+    <options buildIfNeeded="true" compress="false" descriptionLocation="/LightSwitch/outputJar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="true"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <selectedElements exportClassFiles="false" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=LightSwitch/src"/>
+    </selectedElements>
+</jardesc>
